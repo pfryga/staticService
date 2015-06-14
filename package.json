@@ -2,7 +2,7 @@
   "name": "static-service",
   "version": "1.0.0",
   "description": "NodeJs service with ES6",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "serve": "node server.js"
   },
@@ -20,6 +20,7 @@
     "babel": "^5.5.8",
     "express": "^4.12.4",
     "flux": "^2.0.3",
+    "jade": "^1.11.0",
     "react": "^0.13.3"
   }
 }
